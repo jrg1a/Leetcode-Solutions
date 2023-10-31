@@ -1,4 +1,4 @@
-// Search Insert Position Problem - Leetcode ( https://leetcode.com/problems/search-insert-position/description/ )
+// Search Insert Position Problem - Leetcode: https://leetcode.com/problems/search-insert-position/description/ 
 class Solution {
     public int searchInsert(int[] nums, int target) {
         int srch = 0;
